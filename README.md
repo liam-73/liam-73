@@ -1,7 +1,7 @@
 ## Hi there, I'm Min Thant Nyi 👋
 
 ## About Me
-- 💻 Software Engineer | Full Stack Developer
+- 💻 Senior Software Engineer | Full Stack Developer
 - 🌍 Based in Thailand
 - 🚀 Passionate about Software Architecture, Scalable Systems, and Cloud Computing
 - 📚 Pursuing a Bachelor's in Computer Science at [University of the People](https://www.uopeople.edu/)
